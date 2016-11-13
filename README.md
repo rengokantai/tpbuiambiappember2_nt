@@ -52,3 +52,12 @@ manage the model from the controller and manage the transition from the route
 ember g adapter application  //3:00 this is a special keyword
 ```
 
+###6
+```
+ember g route calendars
+```
+####05:37
+```
+ember g route calendar --path=/calendars/:calendar_id
+```
+
