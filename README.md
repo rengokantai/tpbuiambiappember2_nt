@@ -30,4 +30,12 @@ rm test/unit/routes/new-test.js
 then regenerate
 ```
 ember g route new --path=/calendars/new
-````
+```
+
+start server
+```
+ember serve --proxy http://localhost:4300
+```
+
+
+
