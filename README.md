@@ -60,4 +60,14 @@ ember g route calendars
 ```
 ember g route calendar --path=/calendars/:calendar_id
 ```
+####07:36
+```
+ember g controller calendars
+```
+
+###7
+```
+ember g route edit --path=/calendars/:calendar_id/edit
+```
+
 
