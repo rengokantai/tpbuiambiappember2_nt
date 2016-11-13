@@ -36,6 +36,9 @@ start server
 ```
 ember serve --proxy http://localhost:4300
 ```
-
+###4
+```
+ember g controller new
+```
 
 
