@@ -46,3 +46,9 @@ If route and controller define same function, the controller's function will be 
 manage the model from the controller and manage the transition from the route
 
 
+###5 
+####02:23
+```
+ember g adapter application  //3:00 this is a special keyword
+```
+
