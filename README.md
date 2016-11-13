@@ -40,5 +40,9 @@ ember serve --proxy http://localhost:4300
 ```
 ember g controller new
 ```
+####07:30
+If route and controller define same function, the controller's function will be called.  
+####07:43 seperate responsibility
+manage the model from the controller and manage the transition from the route
 
 
