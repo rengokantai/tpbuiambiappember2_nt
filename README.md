@@ -69,5 +69,17 @@ ember g controller calendars
 ```
 ember g route edit --path=/calendars/:calendar_id/edit
 ```
-
+##3 Build the Calendar View
+###1 Adding the Individual Calendar Route
+```
+ember g controller calendar
+```
+###2 Creating an Ember Component
+```
+ember g component month-view
+```
+###4
+```
+ember g component calendar-cell
+```
 
